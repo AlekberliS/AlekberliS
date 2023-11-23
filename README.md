@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **sonalkbrli4@gmail.com**
+- 📫 How to reach me **slkbrli04@gmail.com**
 
 - ⚡ Fun fact **I consider myself to be an exceptional searcher and a diligent worker.**
 
