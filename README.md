@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sonalkbrli4@gmail.com**
 
-- ⚡ Fun fact **I think I am hardworker and excellent searcher**
+- ⚡ Fun fact **I consider myself to be an exceptional searcher and a diligent worker.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
