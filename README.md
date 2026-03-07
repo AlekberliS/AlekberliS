@@ -19,16 +19,7 @@ I enjoy solving analytical problems, exploring datasets, and presenting insights
 
 ---
 
-## 📂 Featured Project
 
-### ✈️ Airline Flight Data Analysis
-- Airline frequency analysis  
-- Price comparison by class and airline  
-- Stops vs price impact  
-- Days left vs ticket pricing  
-- Identification of cheapest and most expensive flights  
-
----
 
 ## 📈 What I’m Currently Working On
 - Improving SQL query optimization  
